@@ -12,7 +12,7 @@
     "@cycle/run": "^4.1.0",
     "blessed": "^0.1.81",
     "cli-clear": "^1.0.4",
-    "cli-color": "^1.2.0",
+    "cli-color": "^2.0.4",
     "cycle-onionify": "^6.1.0",
     "deep-equal": "^1.0.1",
     "docopt": "^0.6.2",
